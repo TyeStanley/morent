@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.disabled-btn {
+  pointer-events: none;
+  background-color: #e0e1e2;
+  color: slategray;
+}

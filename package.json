@@ -1,0 +1,47 @@
+{
+  "name": "cohort5_dynamicduo_carrent",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.23.2",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@headlessui/react": "^1.7.16",
+    "@hookform/resolvers": "^3.2.0",
+    "@stripe/react-stripe-js": "^2.1.2",
+    "@stripe/stripe-js": "^2.1.0",
+    "@svgr/webpack": "^8.0.1",
+    "@types/node": "20.4.8",
+    "@types/react": "18.2.19",
+    "@types/react-dom": "18.2.7",
+    "@uploadthing/react": "^5.3.0",
+    "autoprefixer": "^10.4.14",
+    "eslint": "^8.46.0",
+    "eslint-config-next": "13.4.13",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-tailwindcss": "^3.13.0",
+    "mongoose": "^7.4.2",
+    "next": "13.4.13",
+    "postcss": "8.4.27",
+    "prettier": "^3.0.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-hook-form": "^7.45.4",
+    "stripe": "^12.18.0",
+    "tailwindcss": "3.3.3",
+    "typescript": "5.1.6",
+    "uploadthing": "^5.3.3",
+    "zod": "^3.22.2"
+  },
+  "devDependencies": {
+    "@types/react-datepicker": "^4.15.0"
+  }
+}
